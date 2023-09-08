@@ -1,0 +1,37 @@
+/* Write your CSS code here */
+.container {
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.details-title {
+  color: #000000;
+  font-size: 19px;
+  font-weight: 900;
+}
+.details-img {
+  height: 30px;
+  width: 30px;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+
+.details-author-con {
+  display: flex;
+  align-items: center;
+  width: 65%;
+}
+
+.details-content {
+  width: 65%;
+  color: #2f4f4f;
+  font-size: small;
+}
+
+.main-image {
+  width: 65%;
+  height: 300px;
+}

@@ -1,0 +1,49 @@
+/* Write your CSS code here */
+.item-container {
+  font-family: 'Roboto';
+  display: flex;
+  align-items: center;
+  margin-bottom: 18px;
+  margin-top: 20px;
+}
+
+.img-url {
+  height: 140px;
+  width: 220px;
+}
+
+.item-info-container {
+  margin-left: 12px;
+}
+
+.avatar {
+  height: 30px;
+  width: 30px;
+  border-radius: 30px;
+}
+
+.author-info-con {
+  display: flex;
+  align-items: center;
+}
+
+.item-title {
+  color: #8e8e8e;
+  font-size: 16px;
+  font-weight: 700;
+  width: 340px;
+}
+
+.item-topic {
+  color: #d3d3d3;
+  font-size: 14px;
+}
+
+.author {
+  color: #d3d3d3;
+  font-size: 14px;
+  margin-left: 14px;
+}
+.link {
+  text-decoration: none;
+}
